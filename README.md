@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harry
-- 👀 I’m interested in ... blockchain | DeFi | software dev | IT & IS
+- 👀 I’m interested in ... blockchain | DeFi | IT & IS
 - 🌱 I’m currently learning ... at CSU - Northridge
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... 
